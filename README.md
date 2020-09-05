@@ -1,1 +1,12 @@
-# ACOESvsFIIS
+# Ações x FIIS
+- __Autora__: Beatriz Nascimento
+- __Data de início__: 05 de setembro de 2020
+- __Última modificação__: 05 de setembro de 2020
+- __Data de conclusoa__:
+- __Descrição__:
+  - É um projeto pessoal, que estou apenas aperfeiçoando para fins de aprendizado.
+  - Comparação entre uma lista de 3 ativos - ITSA4, TAEE3 e ENGI3 - e uma lista de 3 fundos imobiliários - BPF11, HGLG11 e BRCR11.
+  - A comparação deu-se apenas em volta da taxa de retorno até então.
+  - Período de comparação: 01 de janeiro de 2018 até 04 de setembro de 2020.
+  - A fonte de dados é o *Yahoo Finances*.
+  - O objetivo final é determinar qual carteira foi mais rentável neste período: ações ou FIIs.
